@@ -9,6 +9,5 @@
 - From `/client` folder, run the command `npm install`. 
     
 - **For running the client:** From `/client` folder, run the command: `npm run dev`(development) / `npm run prod`(production) .
-- **For running the server:** From `/backend/src/main/java/com/backend/Communication` folder,
-run the file `BackendApplication.java`.
+- **For running the server:** From `/backend` folder, run the command `mvn spring-boot:run`.
     
